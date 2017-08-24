@@ -95,3 +95,4 @@ for s in t:
 plt.xlabel('Training set proportion (%)')
 plt.ylabel('accuracy')
 
+plt.show()
